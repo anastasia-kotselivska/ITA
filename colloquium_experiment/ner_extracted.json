@@ -1,0 +1,51 @@
+{
+  "variant": 6,
+  "source_file": "ocr_result_clean.txt",
+  "model_name": "Babelscape/wikineural-multilingual-ner",
+  "aggregation_strategy": "simple",
+  "entities_count": 6,
+  "entities": [
+    {
+      "entity_group": "LOC",
+      "word": "Кобилян",
+      "score": 0.6734,
+      "start": 24,
+      "end": 31
+    },
+    {
+      "entity_group": "MISC",
+      "word": "Супермар",
+      "score": 0.4897,
+      "start": 72,
+      "end": 80
+    },
+    {
+      "entity_group": "MISC",
+      "word": "Касир",
+      "score": 0.4501,
+      "start": 84,
+      "end": 89
+    },
+    {
+      "entity_group": "MISC",
+      "word": "Eskar",
+      "score": 0.4412,
+      "start": 155,
+      "end": 160
+    },
+    {
+      "entity_group": "MISC",
+      "word": "Kirchland PrimeTex",
+      "score": 0.6933,
+      "start": 421,
+      "end": 439
+    },
+    {
+      "entity_group": "MISC",
+      "word": "Су",
+      "score": 0.3837,
+      "start": 674,
+      "end": 676
+    }
+  ]
+}
